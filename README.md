@@ -12,7 +12,7 @@ sites/
     bilder/ …
 ```
 
-Erreichbar ist jede Seite unter `https://<benutzername>.github.io/webseiten/<ordnername>/`.
+Übersicht: **https://twitra.github.io/Webseiten/** – jede Seite unter `https://twitra.github.io/Webseiten/<ordnername>/` (Groß-/Kleinschreibung beachten).
 
 ## Neue Seite hinzufügen
 
